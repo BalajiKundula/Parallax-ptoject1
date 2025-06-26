@@ -1,0 +1,103 @@
+html,
+body{
+    height: 100%;
+    margin:0%;
+    font-size: 16px;
+}
+.container1{
+    background-image: url(https://wallpapercave.com/wp/wp8022670.png);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text1{
+    display: flex;
+    justify-content: center;
+    padding-top: 400px;
+}
+.head1{
+    background-color: rgb(16, 15, 15);
+    color: brown;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    letter-spacing: 5px;
+}
+.text2{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.para{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.container3{
+    background-image: url(https://baradwajrangan.wordpress.com/wp-content/uploads/2017/04/baahubali-2-759.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text3{
+    display: flex;
+    justify-content: center;
+    padding-top: 400px;
+}
+.head3{
+    background-color: rgb(16, 15, 15);
+    color: brown;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    letter-spacing: 5px;
+} 
+.para1{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.text4{
+    display: flex;
+    justify-content: center
+    padding-top: 400px;
+}
+.text4{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.container5{
+    background-image: url(https://img.jagranjosh.com/images/2022/March/2832022/SS-Rajamouli-Biography-RRR-director.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text5{
+    display: flex;
+    justify-content: center;
+    padding-top: 500px;
+    
+}
+.head5{
+    background-color: whitesmoke;
+    color: black;
+    padding: 5px ;
+    letter-spacing: 5px;
+}
+.para2{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.container1,.container3,.container5{
+    background-attachment: fixed;
+}
